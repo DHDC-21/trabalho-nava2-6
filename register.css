@@ -1,0 +1,6 @@
+body{
+    background-color:rosybrown; /*Definindo cor de fundo*/
+    font: 100% Verdana, Time News Roman, Sanserif; /*Escolhendo as fontes*/
+    margin: 0;  /*Definindo a distância da margem*/
+    padding: 0; /*Definindo a distancia com relação a margem*/
+}
